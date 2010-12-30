@@ -1,0 +1,10 @@
+== UPS Shipping
+
+A ruby library for interacting with the UPS Shipping API.
+
+== Installation
+
+In your Gemfile:
+  
+  gem "has_draft"
+

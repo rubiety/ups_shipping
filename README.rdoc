@@ -2,9 +2,13 @@
 
 A ruby library for interacting with the UPS Shipping API.
 
+== IN PROGRESS
+
+This gem is not yet ready for use.
+
 == Installation
 
 In your Gemfile:
   
-  gem "has_draft"
+  gem "ups_shipping"
 
